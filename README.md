@@ -2,10 +2,8 @@
 --------------------------------------- << --------------------------------------- >> ---------------------------------------
 
 <div style="max-width:500px;">
-  <img src="https://media.discordapp.net/attachments/1305973669729800317/1307060803282927686/image.png?ex=6738eebb&is=67379d3b&hm=bc8648f1121135bc9c8475d89dfdc7213292cc2bd0810e203f79cc3d1b126451&=&format=webp&quality=lossless
-" width="500" height="auto">
-  <img src="https://cdn.discordapp.com/attachments/1305973669729800317/1307060949324140624/image.png?ex=6738eede&is=67379d5e&hm=3ecf6359fea3eb4a7f7150f2e39e712ed1890ed3e5c07ead6a9bf43973145cd9&
-" width="500" height="auto">
+  <img src="https://github.com/Khai221/creating-a-restApi-w_spring_java/blob/main/img4readme/321321.png" width="500" height="auto">
+  <img src="https://github.com/Khai221/creating-a-restApi-w_spring_java/blob/main/img4readme/2141234231.png" width="500" height="auto">
 </div>
 
 --------------------------------------- << --------------------------------------- >> ---------------------------------------

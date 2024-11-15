@@ -11,7 +11,6 @@
 ## Results:
 --------------------------------------- << --------------------------------------- >> ---------------------------------------
 <div style="max-width:500px;">
-  <img src="
-" width="500" height="auto">
+  <img src="https://github.com/Khai221/creating-a-restApi-w_spring_java/blob/main/img4readme/Screenshot_3.png" width="500" height="auto">
 </div>
 --------------------------------------- << --------------------------------------- >> ---------------------------------------

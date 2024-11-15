@@ -1,19 +1,19 @@
 ## Example:
 --------------------------------------- << -------------------------------------------------- >> ---------------------------------------
 
-<div style="max-width=500">
-  <img src"![image](https://github.com/user-attachments/assets/9bda0856-ad9f-40c9-a65f-c3a557c79d8f)
-  " width"500" height"auto">
-  <img src"![image](https://github.com/user-attachments/assets/14116fb2-73f1-4313-b393-19f2424e8c90)
-  " width"500" height"auto">
+<div style="max-width:500px;">
+  <img src="![image](https://github.com/user-attachments/assets/35bf8217-5a12-4730-8bfa-dcf1bf2fe088)
+" width="500" height="auto">
+  <img src="![image](https://github.com/user-attachments/assets/e8e0914e-52cb-4e3a-8408-bbe0efba2681)
+" width="500" height="auto">
 </div>
 
 --------------------------------------- << -------------------------------------------------- >> ---------------------------------------
 
 ## Results:
 --------------------------------------- << -------------------------------------------------- >> ---------------------------------------
-<div style="max-width=500>
-  <img src"![image](https://github.com/user-attachments/assets/ecd523c3-549b-47ed-9f52-a8b5e63df87c)
-  " width"500" height"auto">
+<div style="max-width:500px;">
+  <img src="![image](https://github.com/user-attachments/assets/1cf627ed-6147-41c6-a6c8-55ba58fb7eab)
+f" width="500" height="auto">
 </div>
 --------------------------------------- << -------------------------------------------------- >> ---------------------------------------
